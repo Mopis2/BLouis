@@ -1,0 +1,12 @@
+.bloc {
+    display: flex;
+    justify-content: space-around;
+}
+
+.articles {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
